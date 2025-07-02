@@ -230,6 +230,16 @@
     #define HAS_CYD_TOUCH
     #define HAS_CYD_PORTRAIT
   #endif
+  
+  #ifdef MARAUDER_M5STICKCP2
+    #define HAS_BATTERY
+    #define HAS_BT
+    #define HAS_BT_REMOTE
+    #define HAS_BUTTONS
+    #define HAS_SCREEN
+    #define HAS_SD
+    #define USE_SD
+    #define HAS_GPS
 
   #ifdef MARAUDER_CYD_GUITION
     #define HAS_TOUCH
