@@ -237,6 +237,7 @@
     #define HAS_BT_REMOTE
     #define HAS_BUTTONS
     #define HAS_SCREEN
+    #define HAS_TEMP_SENSOR
     #define HAS_SD
     #define USE_SD
     #define HAS_GPS
