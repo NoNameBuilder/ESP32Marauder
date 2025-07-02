@@ -622,7 +622,7 @@
 
       #define EXT_BUTTON_WIDTH 0
 
-      #define SCREEN_ORIENTATION 1
+      #define SCREEN_ORIENTATION 0
 
       #define CHAR_WIDTH 6
       #define SCREEN_WIDTH TFT_HEIGHT // Originally 240
