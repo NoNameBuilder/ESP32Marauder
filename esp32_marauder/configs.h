@@ -240,6 +240,7 @@
     #define HAS_SD
     #define USE_SD
     #define HAS_GPS
+  #endif
 
   #ifdef MARAUDER_CYD_GUITION
     #define HAS_TOUCH
